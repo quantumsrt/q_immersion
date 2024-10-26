@@ -35,3 +35,6 @@ A comprehensive realism enhancement script for FiveM that improves gameplay imme
 - `/toggleroll`: Toggle combat roll restrictions
 - `/togglereticle`: Toggle reticle settings
 - `/togglevehicle`: Toggle vehicle restrictions
+
+## Credits
+Created by quantum.
